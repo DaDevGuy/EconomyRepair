@@ -1,0 +1,9 @@
+# INTERNAL DO NOT TOUCH
+
+config-ver: 1
+
+#CONFIG
+
+repair.command: "repair"
+description: "Repair Item In Your Hand"
+repair-price: 1000

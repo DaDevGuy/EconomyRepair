@@ -1,0 +1,8 @@
+name: EconomyRepair
+author: DaDevGuy
+main: EconomyRepair/DaDevGuy/Main
+version: 1.0.0
+api: [4.0.0]
+
+depend:
+- EconomyAPI
