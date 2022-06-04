@@ -4,3 +4,8 @@
 * Customizable price
 * Easy to use
 
+# TODO
+
+- [x] EconomyAPI
+- [ ] BedrockEconomy
+- [ ] Capital
